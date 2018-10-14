@@ -5,4 +5,4 @@ gradlew.bat script may be used for windows CLI and the following parameters are 
 -P<args indicates input file name and location> and command to execute program.
 
 
-gradlew.bat -PmainClass=com.apps.solutions.AppSolution -Pargs=LogData execute 
+gradlew.bat -PmainClass=com.apps.solutions.AppSolution -Pargs=LogData.json execute 
